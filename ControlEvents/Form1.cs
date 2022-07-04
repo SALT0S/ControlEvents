@@ -56,7 +56,6 @@ namespace ControlEvents
 
         private void cmb_Region_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // add cites to the next comboBox cmb_Provincia when a item of this combobox is selected
             switch (cmb_Region.SelectedIndex)
             {
                 case 0: //Costa

@@ -245,6 +245,7 @@
             this.txt_RepetirClave.Name = "txt_RepetirClave";
             this.txt_RepetirClave.Size = new System.Drawing.Size(150, 31);
             this.txt_RepetirClave.TabIndex = 21;
+            this.txt_RepetirClave.UseSystemPasswordChar = true;
             // 
             // lbl_RepetirClave
             // 
@@ -262,6 +263,7 @@
             this.txt_Clave.Name = "txt_Clave";
             this.txt_Clave.Size = new System.Drawing.Size(150, 31);
             this.txt_Clave.TabIndex = 19;
+            this.txt_Clave.UseSystemPasswordChar = true;
             // 
             // lbl_Clave
             // 
