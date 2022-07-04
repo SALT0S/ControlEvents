@@ -131,7 +131,6 @@
             this.cmb_Region.Items.AddRange(new object[] {
             "Costa",
             "Sierra",
-            "Galápagos",
             "Oriente"});
             this.cmb_Region.Location = new System.Drawing.Point(549, 142);
             this.cmb_Region.Name = "cmb_Region";
